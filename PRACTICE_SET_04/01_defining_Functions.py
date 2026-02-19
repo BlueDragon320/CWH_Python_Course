@@ -1,0 +1,14 @@
+'''1. Write a function greet() that prints "Hello, Python Learner!" when called.'''
+
+def greet():
+    print("Hello, Python Learner!")
+    
+greet()
+
+
+'''2. Write a function square(num) that returns the square of a given number. Test it with different numbers.'''
+
+def square(num):
+    return num*num
+
+print(square(5))
