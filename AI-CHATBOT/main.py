@@ -1,6 +1,5 @@
 from openai import OpenAI
 
-# Better: store API key in environment variable
 client = OpenAI(api_key="sorry cant reveal")
 
 messages = []
